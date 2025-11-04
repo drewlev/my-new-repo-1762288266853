@@ -1,0 +1,117 @@
+[
+  {
+    "id": "cand_001",
+    "name": "Avery Johnson",
+    "title": "Senior Frontend Engineer",
+    "email": "avery.johnson@example.com",
+    "phone": "+1-415-555-0101",
+    "location": "San Francisco, CA",
+    "yearsOfExperience": 8,
+    "skills": ["React", "TypeScript", "Next.js", "GraphQL"],
+    "stage": "Phone Screen"
+  },
+  {
+    "id": "cand_002",
+    "name": "Blake Martinez",
+    "title": "Data Scientist",
+    "email": "blake.martinez@example.com",
+    "phone": "+1-212-555-0102",
+    "location": "New York, NY",
+    "yearsOfExperience": 5,
+    "skills": ["Python", "Pandas", "Scikit-learn", "XGBoost"],
+    "stage": "Applied"
+  },
+  {
+    "id": "cand_003",
+    "name": "Casey Nguyen",
+    "title": "Product Manager",
+    "email": "casey.nguyen@example.com",
+    "phone": "+1-650-555-0103",
+    "location": "Palo Alto, CA",
+    "yearsOfExperience": 7,
+    "skills": ["Product Strategy", "Roadmapping", "User Research", "SQL"],
+    "stage": "Hiring Manager"
+  },
+  {
+    "id": "cand_004",
+    "name": "Dakota Lee",
+    "title": "DevOps Engineer",
+    "email": "dakota.lee@example.com",
+    "phone": "+1-206-555-0104",
+    "location": "Seattle, WA",
+    "yearsOfExperience": 6,
+    "skills": ["AWS", "Terraform", "Kubernetes", "CI/CD"],
+    "stage": "Onsite"
+  },
+  {
+    "id": "cand_005",
+    "name": "Emerson Clark",
+    "title": "Backend Engineer",
+    "email": "emerson.clark@example.com",
+    "phone": "+1-303-555-0105",
+    "location": "Denver, CO",
+    "yearsOfExperience": 4,
+    "skills": ["Node.js", "PostgreSQL", "Express", "Prisma"],
+    "stage": "Take-home"
+  },
+  {
+    "id": "cand_006",
+    "name": "Finley Patel",
+    "title": "Full Stack Engineer",
+    "email": "finley.patel@example.com",
+    "phone": "+1-617-555-0106",
+    "location": "Boston, MA",
+    "yearsOfExperience": 5,
+    "skills": ["React", "Node.js", "TypeScript", "MongoDB"],
+    "stage": "Recruiter Screen"
+  },
+  {
+    "id": "cand_007",
+    "name": "Gabriel Silva",
+    "title": "Machine Learning Engineer",
+    "email": "gabriel.silva@example.com",
+    "phone": "+1-737-555-0107",
+    "location": "Austin, TX",
+    "yearsOfExperience": 6,
+    "skills": ["PyTorch", "TensorFlow", "MLOps", "LangChain"],
+    "stage": "Applied"
+  },
+  {
+    "id": "cand_008",
+    "name": "Harper Kim",
+    "title": "UX Designer",
+    "email": "harper.kim@example.com",
+    "phone": "+1-213-555-0108",
+    "location": "Los Angeles, CA",
+    "yearsOfExperience": 7,
+    "skills": ["Figma", "User Testing", "Design Systems", "Prototyping"],
+    "stage": "Portfolio Review"
+  },
+  {
+    "id": "cand_009",
+    "name": "Indigo Rivera",
+    "title": "QA Engineer",
+    "email": "indigo.rivera@example.com",
+    "phone": "+1-602-555-0109",
+    "location": "Phoenix, AZ",
+    "yearsOfExperience": 5,
+    "skills": ["Cypress", "Playwright", "Jest", "Test Strategy"],
+    "stage": "Onsite"
+  },
+  {
+    "id": "cand_010",
+    "name": "Jordan Smith",
+    "title": "Solutions Architect",
+    "email": "jordan.smith@example.com",
+    "phone": "+1-312-555-0110",
+    "location": "Chicago, IL",
+    "yearsOfExperience": 10,
+    "skills": [
+      "Cloud Architecture",
+      "Microservices",
+      "Security",
+      "Cost Optimization"
+    ],
+    "stage": "Offer"
+  }
+]
